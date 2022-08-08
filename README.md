@@ -23,3 +23,7 @@
 ![Screenshot (19)](https://user-images.githubusercontent.com/105422170/183334743-3bdb3657-c17f-43c8-9c93-47e2c02db1a1.png)
 ![Screenshot (20)](https://user-images.githubusercontent.com/105422170/183334759-0f8b8106-5586-49a7-89f5-ca9c23328fad.png)
 ![Screenshot (21)](https://user-images.githubusercontent.com/105422170/183334772-a5b798a5-bfe7-4f98-b6f1-b6279b28452d.png)
+
+#Azure portal screenshot
+![Screenshot (22)](https://user-images.githubusercontent.com/105422170/183335332-7eef1fd8-3dca-4bef-bcc1-41f816570258.png)
+
